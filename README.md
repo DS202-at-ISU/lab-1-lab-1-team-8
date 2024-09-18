@@ -19,3 +19,13 @@ you are done with your submission.
 
 This is a line from RStudio Matthew added this line from Rustdio Grant
 added this line from RStudio.
+
+Step 12.1:
+
+Step 12.2:
+
+Step 12.4:
+
+Step 12.5:
+
+Step 12.6:
