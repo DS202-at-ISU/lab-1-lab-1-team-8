@@ -23,23 +23,23 @@ Matthew added this line from Rustdio
 Grant added this line from RStudio.
 
 Step 12.1: 
-
+Croix: I had all prerequisites set up already, no further work.
 Matthew: Had to install git and do the global configs, otherwise all was fine.
 
 Step 12.3: 
-
+Croix: This process went smoothly getting into the environment.
 Matt: Didn't have git installed initially, but otherwise creation went fine.
 
 
 Step 12.4:
-
+Croix: Committing worked perfect, followed instructions.
 Matt: Committing worked fine for me.
 
 
 Step 12.5:
-
+Croix: The push worked perfect, no issues.
 I skipped knitting initially, but after that I was able to push/pull to GH.
 
 Step 12.6:
-
+Croix: Changes were shown as expected. Complete process went smoothly.
 Went well I learned the correct order of how to pull/edit/knit/commit/push.
