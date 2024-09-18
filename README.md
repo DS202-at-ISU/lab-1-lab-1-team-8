@@ -22,37 +22,30 @@ added this line from RStudio.
 
 Step 12.1:
 
-Matthew: Had to install git and do the global configs, otherwise all was
-fine.
+Croix: I had all prerequisites set up already, no further work. Matthew:
+Had to install git and do the global configs, otherwise all was fine.
+Grant: This step was easy since I already completed the prerequisite.
 
-\<\<\<\<\<\<\< HEAD Grant: This step was easy since I already completed
-the prerequisite. Step 12.3:
+Step 12.3:
 
-======= Step 12.3:
-
-Matt: Didn’t have git installed initially, but otherwise creation went
-fine. \>\>\>\>\>\>\> 2bdbb5a58507773d2c7008d09c80b6b97f8f920f
-
+Croix: This process went smoothly getting into the environment. Matt:
+Didn’t have git installed initially, but otherwise creation went fine.
 Grant: It was easy to set up the repository, it was important to
-remember where I saved the project locally. Step 12.4:
+remember where I saved the project locally.
 
-Matt: Committing worked fine for me.
+Step 12.4:
 
-Grant: This step went fine until I had to commit, I had problems signing
-my account in with git. Step 12.5:
+Croix: Committing worked perfect, followed instructions. Matt:
+Committing worked fine for me. Grant: This step went fine until I had to
+commit, I had problems signing my account in with git.
 
-\<\<\<\<\<\<\< HEAD
+Step 12.5:
 
-Grant: This step went smooth after I figured out that I need to commit
-before I push. Step 12.6:
+Croix: The push worked perfect, no issues. I skipped knitting initially,
+but after that I was able to push/pull to GH. Grant: This step went
+smooth after I figured out that I need to commit before I push.
 
-# Grant: I added my line to the wrong README file at first but after I figured that out it went well.
-
-I skipped knitting initially, but after that I was able to push/pull to
-GH.
-
-Step 12.6:
-
-Went well I learned the correct order of how to
-pull/edit/knit/commit/push. \>\>\>\>\>\>\>
-2bdbb5a58507773d2c7008d09c80b6b97f8f920f
+Step 12.6: Grant: I added my line to the wrong README file at first but
+after I figured that out it went well. Croix: Changes were shown as
+expected. Complete process went smoothly. Went well I learned the
+correct order of how to pull/edit/knit/commit/push.
