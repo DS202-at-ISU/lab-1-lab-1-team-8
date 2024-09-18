@@ -23,13 +23,37 @@ Grant added this line from RStudio.
 Step 12.1: Croix - I had all the prerequisites already set up so there
 was no additional work to do.
 
+<<<<<<< HEAD
 Step 12.3: Croix - This step went smoothly. I followed the directions
 and did not encounter any errors.
+=======
+Matthew: Had to install git and do the global configs, otherwise all was
+fine.
+
+Step 12.3:
+
+Matt: Didn’t have git installed initially, but otherwise creation went
+fine.
+>>>>>>> 2bdbb5a58507773d2c7008d09c80b6b97f8f920f
 
 Step 12.4: Croix - This step went smoothly, I ultimately went through
 this twice in order to go back and add my name to the line I originally
 added.
 
+<<<<<<< HEAD
 Step 12.5: This step went along with 12.4, no issues encountered.
 
 Step 12.6: Changes to the document were confirmed to have worked.
+=======
+Matt: Committing worked fine for me.
+
+Step 12.5:
+
+I skipped knitting initially, but after that I was able to push/pull to
+GH.
+
+Step 12.6:
+
+Went well I learned the correct order of how to
+pull/edit/knit/commit/push.
+>>>>>>> 2bdbb5a58507773d2c7008d09c80b6b97f8f920f
