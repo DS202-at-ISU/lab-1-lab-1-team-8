@@ -24,22 +24,22 @@ Grant added this line from RStudio.
 
 Step 12.1: 
 
+Matthew: Had to install git and do the global configs, otherwise all was fine.
 
+Step 12.3: 
 
-Step 12.2: 
-
-
+Matt: Didn't have git installed initially, but otherwise creation went fine.
 
 
 Step 12.4:
 
-
+Matt: Committing worked fine for me.
 
 
 Step 12.5:
 
-
+I skipped knitting initially, but after that I was able to push/pull to GH.
 
 Step 12.6:
 
-
+Went well I learned the correct order of how to pull/edit/knit/commit/push.
